@@ -1,0 +1,17 @@
+{
+  "name": "sample",
+  "main": "./lib/sample",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "activationCommands": {
+    "atom-workspace": "sample:toggle"
+  },
+  "repository": "https://github.com/atom/sample",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "*"
+  }
+}
